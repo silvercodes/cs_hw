@@ -4,5 +4,8 @@ int main()
 {
     std::cout << "Petya\n";
 
+    int a{3};
+    int b{5};
+
     return 0;
 }
